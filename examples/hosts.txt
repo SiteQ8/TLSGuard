@@ -1,0 +1,5 @@
+# TLSGuard targets. One host per line. Add a port with host:port if needed.
+# Lines that start with a hash are ignored. List endpoints you operate.
+example.com
+www.example.com
+api.example.com:8443
