@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 TLSGuard
+# TLSGuard
 
 ### Audit and harden the TLS posture of your endpoints.
 
